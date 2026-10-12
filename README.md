@@ -34,14 +34,26 @@ Registro da minha jornada de estudos em cibersegurança pela plataforma TryHackM
 **Status:** ⏳ Em andamento
 **Data de início:** 12/10/2026
 
-### O que vou aprender
-- Tipos de computador
-- Como funciona um sistema por dentro
-- Hardware e software
+### Salas concluídas
 
-### Salas
-- Inside a Computer System (em andamento)
-- Computer Types (a fazer)
+#### Inside a Computer System ✅
+**Data:** 12/10/2026
+**O que aprendi:**
+- Componentes do computador: CPU, RAM, armazenamento (HD/SSD), PSU, placa-mãe
+- Firmware, UEFI e BIOS (diferença entre eles)
+- Sequência de boot: power button → firmware → POST → boot device → bootloader → OS
+
+**Dificuldade:** Tive dificuldade em associar o nome dos componentes em inglês (CPU, GPU, PSU, motherboard, storage). Preciso revisar o vocabulário técnico.
+
+**Flag:** `THM{41lpc0mp0n3nts1d3nt1f13d}`
+
+![Inside a Computer System](images/inside-a-computer-system.png)
+
+---
+
+#### Computer Types ⏸️
+**Status:** Pausada (sala Premium — requer assinatura)
+**Observação:** Pular por enquanto. Voltar quando assinar o Premium.
 
 ---
 
