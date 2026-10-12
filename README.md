@@ -45,7 +45,8 @@ Registro da minha jornada de estudos em cibersegurança pela plataforma TryHackM
 
 **Dificuldade:** Tive dificuldade em associar o nome dos componentes em inglês (CPU, GPU, PSU, motherboard, storage). Preciso revisar o vocabulário técnico.
 
-**Flag:** `THM{41lpc0mp0n3nts1d3nt1f13d}`
+**Flags:** `THM{41lpc0mp0n3nts1d3nt1f13d}`
+`THM{pc5ucce55fully5t4rt3d}`
 
 ![Inside a Computer System](images/inside-a-computer-system.jpg)
 
