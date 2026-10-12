@@ -47,7 +47,7 @@ Registro da minha jornada de estudos em cibersegurança pela plataforma TryHackM
 
 **Flag:** `THM{41lpc0mp0n3nts1d3nt1f13d}`
 
-![Inside a Computer System](images/inside-a-computer-system.png)
+![Inside a Computer System](images/inside-a-computer-system.jpg)
 
 ---
 
