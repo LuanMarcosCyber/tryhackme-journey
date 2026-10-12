@@ -32,12 +32,15 @@ Registro da minha jornada de estudos em cibersegurança pela plataforma TryHackM
 ## Module 2: Computer Fundamentals
 
 **Status:** ⏳ Em andamento
+
 **Data de início:** 12/10/2026
 
 ### Salas concluídas
 
 #### Inside a Computer System ✅
+
 **Data:** 12/10/2026
+
 **O que aprendi:**
 - Componentes do computador: CPU, RAM, armazenamento (HD/SSD), PSU, placa-mãe
 - Firmware, UEFI e BIOS (diferença entre eles)
