@@ -48,7 +48,7 @@ Registro da minha jornada de estudos em cibersegurança pela plataforma TryHackM
 
 **Dificuldade:** Tive dificuldade em associar o nome dos componentes em inglês (CPU, GPU, PSU, motherboard, storage). Preciso revisar o vocabulário técnico.
 
-![Inside a Computer System](images/inside-a-computer-system.jpg)
+![Inside a Computer System](images/inside-a-computer-system-complete.jpg)
 
 ---
 
@@ -66,7 +66,7 @@ Registro da minha jornada de estudos em cibersegurança pela plataforma TryHackM
 **Lição-chave:** Não existe o "melhor computador", existe a ferramenta certa para o trabalho certo. O design de cada máquina é um reflexo direto da sua necessidade de mobilidade, poder de processamento ou confiabilidade.
 
 
-![Print da Sala](images/computer-types.png)
+![Print da Sala](images/computer-types-complete.jpg)
 
 ---
 | Módulo | Status |
