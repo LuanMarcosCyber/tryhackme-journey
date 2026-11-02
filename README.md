@@ -48,21 +48,27 @@ Registro da minha jornada de estudos em cibersegurança pela plataforma TryHackM
 
 **Dificuldade:** Tive dificuldade em associar o nome dos componentes em inglês (CPU, GPU, PSU, motherboard, storage). Preciso revisar o vocabulário técnico.
 
-**Flags:** `THM{41lpc0mp0n3nts1d3nt1f13d}`
-`THM{pc5ucce55fully5t4rt3d}`
-
 ![Inside a Computer System](images/inside-a-computer-system.jpg)
 
 ---
 
-#### Computer Types ⏸️
-**Status:** Pausada (sala Premium — requer assinatura)
-**Observação:** Pular por enquanto. Voltar quando assinar o Premium.
+### Computer Types ✅
+
+**Data:** 02/11/2026
+
+**O que aprendi:**
+- Compreendi as diferenças práticas entre os principais tipos de computadores (Laptop, Desktop, Workstation e Server) e o propósito de design de cada um.
+- Entendi o conceito de *trade-off* no hardware (ex: mobilidade custa energia e capacidade de resfriamento, enquanto servidores priorizam redundância e performance contínua).
+- Diferenciei dispositivos **IoT** (conectados à rede para enviar dados/receber comandos, como câmeras e smart TVs) de **Embedded Computers** (embutidos em máquinas para executar uma função local sem necessariamente ter conexão com a internet, como o sensor de uma porta automática).
+
+**Dificuldade:** A sala foi bem tranquila e a lógica foi absorvida rapidamente. A única confusão inicial foi separar o conceito de IoT e Embedded, achando que tudo se resumia a IoT, mas a distinção sobre a conectividade com a rede ficou clara.
+
+**Lição-chave:** Não existe o "melhor computador", existe a ferramenta certa para o trabalho certo. O design de cada máquina é um reflexo direto da sua necessidade de mobilidade, poder de processamento ou confiabilidade.
+
+
+![Print da Sala](images/computer-types.png)
 
 ---
-
-## Progresso geral
-
 | Módulo | Status |
 |---|---|
 | Introduction to Cyber Security | ✅ Concluído |
