@@ -87,9 +87,42 @@ Registro da minha jornada de estudos em cibersegurança pela plataforma TryHackM
 ![Print da Sala](images/client-server-basics-complete.jpg)
 
 ---
+### Virtualisation Basics ✅
 
+**Data:** 02/11/2026
+
+**O que aprendi:**
+- Compreendi o problema da "um servidor = uma aplicação" e como a virtualização resolve isso otimizando o uso do hardware físico (evitando desperdício de CPU, memória e custos altos).
+- Entendi o papel do **Hypervisor** (o software que gerencia e aloca recursos) e a diferença entre **Type 1** (bare-metal, ideal para servidores e produção) e **Type 2** (hospedado em um SO, ideal para estudos e testes, como o VirtualBox).
+- Diferenciei as **Máquinas Virtuais (VMs)** de **Containers**: VMs simulam um computador inteiro (com seu próprio SO), enquanto containers compartilham o kernel do SO hospedeiro, sendo mais leves e rápidos.
+- Pratiquei o gerenciamento de um ambiente virtual simulado (Virtualization Manager), reiniciando VMs com erro, criando uma nova máquina e analisando o consumo de hardware dos servidores físicos.
+
+**Dificuldade:** A sala foi bem tranquila e a dinâmica prática ajudou bastante. A única dificuldade foi entender o conceito de container na teoria, pois o texto em inglês estava um pouco denso, mas com o tempo e a analogia dos "quartos dentro do apartamento" a lógica ficou clara.
+
+**Lição-chave:** A virtualização permite máxima separação e flexibilidade (VMs completas), enquanto os containers oferecem leveza e agilidade para deploy de aplicações escaláveis. Saber escolher entre eles é o que otimiza a infraestrutura moderna.
+
+![Print da Sala](images/virtualisation-basics-complete.jpg)
+
+---
+### Cloud Computing Fundamentals ✅
+
+**Data:** 02/11/2026
+
+**O que aprendi:**
+- Compreendi a evolução da infraestrutura (Servidores Físicos → Virtualização → Nuvem) e como a computação em nuvem resolveu problemas de custo e limitação física.
+- Entendi os benefícios principais do modelo (Escalabilidade, On-demand, Pay-as-you-go, Alta disponibilidade).
+- Diferenciei os modelos de implantação (**Public, Private e Hybrid**) e os modelos de serviço usando a analogia do aluguel (**IaaS, PaaS, SaaS**).
+- Pratiquei a criação e o gerenciamento de instâncias (EC2) em um console simulado (estilo AWS), criando máquinas virtuais, escolhendo tipos de instância (t3.micro, m5.large) e gerenciando custos.
+
+**Dificuldade:** A sala foi bem tranquila, sem dificuldades técnicas ou teóricas, pois eu já tinha uma base prévia de Cloud por conta da trilha do Google Cloud Cybersecurity.
+
+**Lição-chave:** A nuvem não é sobre *onde* o servidor está, mas sim sobre *como* os recursos são consumidos. É a abstração do hardware físico (via virtualização e containers) que permite escalar aplicações globalmente em minutos e pagar apenas pelo que se usa.
+
+![Print da Sala](images/cloud-computing-fundamentals-complete.png)
+
+---
 | Módulo | Status |
 |---|---|
 | Introduction to Cyber Security | ✅ Concluído |
-| Computer Fundamentals | ⏳ Em andamento |
-| (próximos) | 🔒 A fazer |
+| Computer Fundamentals | ✅ Concluído |
+| Operating Systems Basics | ⏳ Em andamento |
