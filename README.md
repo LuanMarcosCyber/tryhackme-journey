@@ -118,7 +118,7 @@ Registro da minha jornada de estudos em cibersegurança pela plataforma TryHackM
 
 **Lição-chave:** A nuvem não é sobre *onde* o servidor está, mas sim sobre *como* os recursos são consumidos. É a abstração do hardware físico (via virtualização e containers) que permite escalar aplicações globalmente em minutos e pagar apenas pelo que se usa.
 
-![Print da Sala](images/cloud-computing-fundamentals-complete.png)
+![Print da Sala](images/cloud-computing-fundamentals-complete.jpeg)
 
 ---
 | Módulo | Status |
