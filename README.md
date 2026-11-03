@@ -31,7 +31,7 @@ Registro da minha jornada de estudos em cibersegurança pela plataforma TryHackM
 
 ## Module 2: Computer Fundamentals
 
-**Status:** ⏳ Em andamento
+**Status:** ✅ Concluído
 
 **Data de início:** 12/10/2026
 
@@ -121,6 +121,25 @@ Registro da minha jornada de estudos em cibersegurança pela plataforma TryHackM
 ![Print da Sala](images/cloud-computing-fundamentals-complete.jpeg)
 
 ---
+
+## 📝 Resumo do Módulo: Computer Fundamentals
+
+Concluir este módulo foi essencial para consolidar a base de como a infraestrutura de TI funciona, do nível mais baixo ao mais alto. A linha de raciocínio que construí aqui foi:
+
+1. **O Hardware:** Entendi como a máquina física funciona por dentro (CPU, RAM, armazenamento) e que o design de cada computador (seja um laptop ou um servidor) é um *trade-off* focado no seu propósito principal.
+2. **A Comunicação:** Vi como essas máquinas conversam através do modelo *Client-Server*, utilizando protocolos (HTTP), portas e o DNS para traduzir endereços e entregar dados pela web.
+3. **A Otimização (Virtualização):** Aprendi a resolver o problema do desperdício de hardware. Em vez de "um servidor físico para cada aplicação", usamos *Hypervisors* para criar VMs e *Containers* para rodar softwares de forma isolada e eficiente.
+4. **A Escala (Cloud):** Por fim, vi como a virtualização evoluiu para a nuvem. Entendi os modelos de serviço (IaaS, PaaS, SaaS) e como a computação em nuvem permite escalar aplicações globalmente em minutos, pagando apenas pelo que se usa.
+
+**Conclusão:** Sair de "peças de computador" para "como a AWS funciona" em um único módulo me deu a clareza de que a cibersegurança (especialmente o Blue Team) exige entender a fundação da infraestrutura antes de tentar defendê-la.
+
+---
+
+## Module 3: Operating Systems Basics
+
+**Status:** ⏳ Em andamento
+
+
 | Módulo | Status |
 |---|---|
 | Introduction to Cyber Security | ✅ Concluído |
