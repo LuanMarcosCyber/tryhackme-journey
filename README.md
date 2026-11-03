@@ -4,7 +4,7 @@ Registro da minha jornada de estudos em cibersegurança pela plataforma TryHackM
 
 **Objetivo:** construir base prática em segurança da informação, com foco em Blue Team / SOC.
 
-**Trilha atual:** Pre Security (gratuita)
+**Trilha atual: Pre Security**
 
 ---
 
