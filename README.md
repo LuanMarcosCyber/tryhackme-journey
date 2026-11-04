@@ -138,6 +138,7 @@ Concluir este módulo foi essencial para consolidar a base de como a infraestrut
 ## Module 3: Operating Systems Basics
 
 **Status:** ⏳ Em andamento
+**Data:** 03/11/2026
 
 ### Operating Systems Introduction ✅
 
