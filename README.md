@@ -139,6 +139,24 @@ Concluir este módulo foi essencial para consolidar a base de como a infraestrut
 
 **Status:** ⏳ Em andamento
 
+### Operating Systems Introduction ✅
+
+**Data:** 03/11/2026
+
+**O que aprendi:**
+- Compreendi o papel do **Sistema Operacional (OS)** como o "gerente invisível" que faz a ponte entre o hardware, as aplicações e o usuário.
+- Entendi a separação de privilégios: **Kernel Space** (acesso irrestrito ao hardware, como a torre de controle de um aeroporto) e **User Space** (onde os aplicativos rodam de forma isolada e segura).
+- Estudei as principais responsabilidades do OS: gerenciamento de processos (multitarefa), de memória (RAM e virtual), de arquivos, de usuários e de dispositivos (drivers).
+- Visualizei o panorama dos sistemas operacionais no mundo real (Desktop, Server, Mobile, Embedded, Virtual/Cloud) e a diferença entre interagir via **GUI** (interface gráfica) e **CLI** (linha de comando).
+- Pratiquei a interação com um ambiente Linux (Ubuntu Mate) na máquina virtual, utilizando a GUI para verificar informações do sistema (versão, hardware, memória) e navegar por diretórios.
+
+**Dificuldade:** A sala foi super tranquila e introdutória. A única atenção extra foi necessária para associar as responsabilidades do OS aos exemplos práticos do dia a dia e navegar pela estrutura de pastas do Linux.
+
+**Lição-chave:** Sem o OS, o hardware seria apenas um monte de metal inútil. A separação entre Kernel e User Space é o que garante a estabilidade do sistema (se um app travar, não derruba a máquina inteira) e a base da segurança da informação.
+
+![Print da Sala](images/operating-systems-introduction-complete.jpg)
+
+---
 
 | Módulo | Status |
 |---|---|
