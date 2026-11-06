@@ -174,7 +174,7 @@ Concluir este módulo foi essencial para consolidar a base de como a infraestrut
 
 **Lição-chave:** O Windows não é só um ambiente visual; ele tem ferramentas nativas de defesa e monitoramento muito poderosas (como o Defender e o Task Manager) que são o primeiro passo para qualquer análise de Blue Team. Saber onde olhar e como configurar essas ferramentas é essencial para identificar anomalias.
 
-![Print da Sala](images/windows-basics-complete.png)
+![Print da Sala](images/windows-basics-complete.jpg)
 
 ---
 | Módulo | Status |
