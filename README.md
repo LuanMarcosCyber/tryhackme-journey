@@ -159,7 +159,24 @@ Concluir este módulo foi essencial para consolidar a base de como a infraestrut
 ![Print da Sala](images/operating-systems-introduction-complete.jpg)
 
 ---
+### Windows Basics ✅
 
+**Data:** 04/11/2026
+
+**O que aprendi:**
+- Naveguei pela interface do Windows Server 2019, entendendo a estrutura de contas de usuário (Guest, Standard e Administrator) e a importância da autenticação.
+- Explorei o **File Explorer**, aprendendo a gerenciar arquivos, entender caminhos (paths) e instalar/desinstalar aplicações.
+- Mergulhei no **Gerenciador de Tarefas (Task Manager)**: fui além da aba de aplicativos abertos e entendi como analisar processos em segundo plano, uso de CPU/RAM e contas de usuário logadas.
+- Descobri o poder do **Windows Security**: realizei uma varredura (custom scan) em uma pasta específica e vi a ferramenta identificar e isolar uma ameaça real simulada (`Virus:DOS/EICAR_Test_File`).
+- Entendi o funcionamento do **Windows Defender Firewall**, suas regras de entrada/saída e como os perfis de rede (Domain, Private, Public) protegem o sistema.
+
+**Dificuldade:** A sala foi bem intuitiva, mas a maior surpresa foi descobrir o quão profundo o Windows Security e o Gerenciador de Tarefas podem ser. Eu não sabia que o Windows Security tinha esse poder de fazer varreduras direcionadas e realmente achar vírus, e o gerenciador de tarefas eu nunca fui muito além de só ver os apps que estavam abertos e rodando.
+
+**Lição-chave:** O Windows não é só um ambiente visual; ele tem ferramentas nativas de defesa e monitoramento muito poderosas (como o Defender e o Task Manager) que são o primeiro passo para qualquer análise de Blue Team. Saber onde olhar e como configurar essas ferramentas é essencial para identificar anomalias.
+
+![Print da Sala](images/windows-basics-complete.png)
+
+---
 | Módulo | Status |
 |---|---|
 | Introduction to Cyber Security | ✅ Concluído |
