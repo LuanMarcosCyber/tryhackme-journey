@@ -1,7 +1,9 @@
 # Module 1: Introduction to Cyber Security
 
 **Trilha:** Pre Security
-**Status:** ✅ Concluído
+
+**Status do Módulo:** ✅ Concluído
+
 **Data:** 12/10/2026
 
 [← Voltar ao README](../../README.md)
