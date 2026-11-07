@@ -51,18 +51,18 @@
 
 ---
 
-<!-- MODELO PARA AS PRÓXIMAS SALAS (copie e preencha)
-
-## Nome da Sala ✅
+## Linux CLI Basics ✅
 
 **O que aprendi**
-- ...
+- **Terminal (CLI) na cibersegurança:** oferece mais controle, velocidade e acesso a ferramentas que não têm interface gráfica
+- **Navegação no sistema de arquivos:** `pwd` (onde estou), `ls` (listar arquivos; `ls -a` mostra os ocultos e `ls -l` os detalhes) e `cd` (mudar de diretório)
+- **Busca e leitura de arquivos:** `find ~ -name "arquivo"` procura um arquivo pelo nome a partir da pasta pessoal (`~`), e `cat` mostra o conteúdo
+- **Informações do sistema:** `whoami` (usuário atual), `uname -a` (kernel e máquina) e `df -h` (uso de disco em formato legível)
 
-**Dificuldade:** ... (só se houve de verdade)
+**Dificuldade:** lembrar a sintaxe exata do `find` no desafio final. Esqueci que o comando precisa do diretório de busca e da flag `-name` (`find ~ -name "arquivo"`), e só consegui resolver depois de revisar a estrutura.
 
-**Lição-chave:** ...
+**Lição-chave:** o terminal exige precisão. Esquecer o diretório de busca ou uma flag faz o comando falhar. A repetição constrói a memória muscular para comandos como `find`, `ls` e `cat`, que serão a base das investigações em Linux daqui pra frente.
 
-![Nome da Sala](../images/nome-do-arquivo.jpg)
+![Linux CLI Basics](../images/linux-cli-basics-complete.jpg)
 
 ---
--->
