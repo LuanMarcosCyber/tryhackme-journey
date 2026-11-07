@@ -26,8 +26,3 @@
 
 - Me identifiquei mais com a área de defesa (Blue Team / SOC).
 - Estudando em inglês pra treinar o idioma técnico ao mesmo tempo.
-
-## Key takeaways (EN)
-
-- Cybersecurity has two sides, offense and defense, and I identified most with defense (Blue Team / SOC).
-- I'm studying in English to practice technical vocabulary at the same time.
