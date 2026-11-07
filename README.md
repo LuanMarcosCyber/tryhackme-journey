@@ -1,4 +1,4 @@
-# Luan Marcos | Try Hack Me Journey 🔐
+# Luan Marcos | TryHackMe Journey 🔐
 
 Estudante de Defesa Cibernética (Impacta Tecnologia), com foco em **Blue Team / SOC**.
 Neste repositório eu documento meus estudos práticos e projetos em segurança da informação.
@@ -9,7 +9,7 @@ Neste repositório eu documento meus estudos práticos e projetos em segurança 
 
 - Blue Team / SOC
 - Fundamentos de redes, sistemas e segurança
-- Documentar o que aprendo e evoluo
+- Documentar o que aprendo e como evoluo
 
 ## 📚 Progresso
 
@@ -20,8 +20,6 @@ Neste repositório eu documento meus estudos práticos e projetos em segurança 
 | 1. Introduction to Cyber Security | ✅ Concluído | [Ver notas](tryhackme/01-pre-security/01-introduction-to-cyber-security.md) |
 | 2. Computer Fundamentals | ✅ Concluído | [Ver notas](tryhackme/01-pre-security/02-computer-fundamentals.md) |
 | 3. Operating Systems Basics | ⏳ Em andamento | [Ver notas](tryhackme/01-pre-security/03-operating-systems-basics.md) |
-
-👉 Visão geral da trilha: [tryhackme/](tryhackme/)
 
 ## 🗂️ Como o repositório está organizado
 
