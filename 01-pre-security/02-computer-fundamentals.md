@@ -1,7 +1,9 @@
 # Module 2: Computer Fundamentals
 
 **Trilha:** Pre Security
-**Status:** ✅ Concluído
+
+**Status do Módulo:** ✅ Concluído
+
 **Período:** 12/10/2026 a 02/11/2026
 
 [← Voltar ao README](../README.md)
