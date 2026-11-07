@@ -4,7 +4,7 @@
 **Status:** ✅ Concluído
 **Período:** 12/10/2026 a 02/11/2026
 
-[← Voltar ao README](../../README.md)
+[← Voltar ao README](../README.md)
 
 ---
 
@@ -29,7 +29,7 @@
 
 **Dificuldade:** associar os nomes dos componentes em inglês (CPU, GPU, PSU, motherboard, storage). Preciso revisar esse vocabulário técnico.
 
-![Inside a Computer System](../../images/inside-a-computer-system-complete.jpg)
+![Inside a Computer System](../images/inside-a-computer-system-complete.jpg)
 
 ---
 
@@ -44,7 +44,7 @@
 
 **Lição-chave:** não existe o "melhor computador", existe a ferramenta certa para cada trabalho. O design de cada máquina reflete sua necessidade de mobilidade, poder de processamento ou confiabilidade.
 
-![Computer Types](../../images/computer-types-complete.jpg)
+![Computer Types](../images/computer-types-complete.jpg)
 
 ---
 
@@ -61,7 +61,7 @@
 
 **Lição-chave:** toda comunicação na web é baseada em requisições e respostas padronizadas. Entender como o navegador monta um request e como o servidor responde é a base para analisar qualquer tráfego de rede no futuro.
 
-![Client-Server Basics](../../images/client-server-basics-complete.jpg)
+![Client-Server Basics](../images/client-server-basics-complete.jpg)
 
 ---
 
@@ -77,7 +77,7 @@
 
 **Lição-chave:** a virtualização oferece máxima separação e flexibilidade (VMs completas), enquanto os containers oferecem leveza e agilidade para implantar aplicações. Saber escolher entre eles otimiza a infraestrutura.
 
-![Virtualisation Basics](../../images/virtualisation-basics-complete.jpg)
+![Virtualisation Basics](../images/virtualisation-basics-complete.jpg)
 
 ---
 
@@ -93,7 +93,7 @@
 
 **Lição-chave:** a nuvem não é sobre *onde* o servidor está, mas sobre *como* os recursos são consumidos. A abstração do hardware físico (via virtualização e containers) permite escalar aplicações em minutos e pagar apenas pelo que se usa.
 
-![Cloud Computing Fundamentals](../../images/cloud-computing-fundamentals-complete.jpeg)
+![Cloud Computing Fundamentals](../images/cloud-computing-fundamentals-complete.jpeg)
 
 ---
 
