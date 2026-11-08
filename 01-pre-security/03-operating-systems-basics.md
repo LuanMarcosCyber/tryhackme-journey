@@ -1,9 +1,10 @@
 # Module 3: Operating Systems Basics
 
 **Trilha:** Pre Security
+
 **Status:** ✅ Concluido
-**Início:** 03/11/2026
-**Término:** 08/11/2026
+
+**Periodo:** 03/11 a 08/11
 
 [← Voltar ao README](../README.md)
 
