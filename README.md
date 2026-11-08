@@ -20,6 +20,7 @@ Neste repositório eu documento meus estudos práticos e projetos em segurança 
 | 1. Introduction to Cyber Security | ✅ Concluído | [Ver notas](/01-pre-security/01-introduction-to-cyber-security.md) |
 | 2. Computer Fundamentals | ✅ Concluído | [Ver notas](/01-pre-security/02-computer-fundamentals.md) |
 | 3. Operating Systems Basics | ✅ Concluído | [Ver notas](/01-pre-security/03-operating-systems-basics.md) |
+| 4. Software Basics | ⌛ Em andamento | [Ver notas](/01-pre-security/04-software-basics.md) |
 
 ## 🗂️ Como o repositório está organizado
 
