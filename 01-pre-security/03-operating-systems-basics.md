@@ -95,7 +95,7 @@
 
 **Lição-chave:** o CMD é uma ferramenta poderosa para a análise inicial de um sistema Windows. Comandos como `systeminfo` e `ipconfig` dão um panorama rápido da máquina, e isso é útil para quem investiga um host suspeito ou precisa entender o ambiente, como no trabalho de um analista de Blue Team.
 
-![Windows CLI Basics](../images/windows-cli-basics.jpg)
+![Windows CLI Basics](../images/windows-cli-basics-complete.jpg)
 
 ---
 
