@@ -36,6 +36,6 @@
 
 **Lição-chave:** o computador trabalha com dois estados (ligado e desligado, 0 e 1), e tudo o que ele guarda (cores, letras, arquivos) é uma tradução disso. A conversão entre bases importa para a segurança porque o hexadecimal aparece o tempo todo em endereços, hashes e na análise de pacotes e de malware.
 
-![Data Representation](../images/data-representation.png)
+![Data Representation](../images/data-representation-complete.png)
 
 ---
