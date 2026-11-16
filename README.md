@@ -26,7 +26,7 @@ Neste repositório eu documento meus estudos práticos e projetos em segurança 
 
 ```
 ├── README.md          ← você está aqui
-├── tryhackme/         ← notas por trilha e módulo
+├── 01-pre-security/         ← notas por trilha e módulo da trilha Pre Security
 └── images/            ← prints das salas concluídas
 ```
 
