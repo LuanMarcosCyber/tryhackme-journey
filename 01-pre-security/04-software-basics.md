@@ -75,6 +75,6 @@
 
 **Lição-chave:** A programação é uma ferramenta fundamental para o profissional de segurança. Entender a lógica por trás do código (como variáveis, loops e condicionais) é o que permite, no futuro, automatizar tarefas repetitivas, criar ferramentas de análise e entender como exploits funcionam.
 
-![Print da Sala](images/python-simple-demo-complete.jpg)
+![Python SImple Demo](../images/python-simple-demo-complete.jpg)
 
 ---
