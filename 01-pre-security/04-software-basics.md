@@ -14,7 +14,7 @@
 |---|---|
 | Data Representation | 12/10/2026 ✅ |
 | Data Enconding | 15/10/2026 ✅  |
-| Python: Simple Demo | ⌛ A fazer |
+| Python: Simple Demo | 17/10/2026 ✅ |
 | JavaScript: Simple Demo | ⌛ A fazer |
 | Database SQL Basics | ⌛ A fazer  |
 
@@ -59,5 +59,22 @@
 **Lição-chave:** erros de encoding não são só um incômodo visual (acentos trocados, interrogações no lugar de letras). Na segurança da informação, atacantes exploram diferenças de interpretação do texto para tentar contornar filtros e injetar *payloads* maliciosos. Entender como o texto vira números é essencial para ler logs e analisar conteúdo suspeito.
 
 ![Data Encoding](../images/data-encoding-complete.jpg)
+
+---
+### Python: Simple Demo ✅
+
+**Data:** 17/11/2026
+
+**O que aprendi:**
+- Criei um jogo de adivinhação ("Guess the Number") no **Visual Studio Code (VS Code)**, aplicando a lógica de programação em Python na prática.
+- Compreendi o uso de variáveis (`secret`, `guess` e `tries`), a importação de bibliotecas (como a `random` para gerar o número secreto) e a captura de dados do usuário com o `input()`.
+- Estudei a estrutura de tomada de decisão usando condicionais (`if`, `elif` e `else`) para dar feedback ao usuário (se o chute foi alto, baixo ou fora do intervalo).
+- Entendi como criar **loops** (usando `while`) para manter o programa rodando até que uma condição seja satisfeita (no caso, até o usuário acertar o número), além de criar a quarta versão (`guess_v4.py`) que incluía a validação da entrada (`isdigit()`) para evitar que o programa quebrasse se o usuário digitasse uma letra em vez de um número.
+
+**Dificuldade:** Não tive dificuldades nesta sala. Achei os fundamentos bem fáceis e tranquilos de acompanhar, pois já tinha visto a grande maioria dessa lógica de programação (variáveis, condicionais e loops) durante a faculdade.
+
+**Lição-chave:** A programação é uma ferramenta fundamental para o profissional de segurança. Entender a lógica por trás do código (como variáveis, loops e condicionais) é o que permite, no futuro, automatizar tarefas repetitivas, criar ferramentas de análise e entender como exploits funcionam.
+
+![Print da Sala](images/python-simple-demo-complete.jpg)
 
 ---
