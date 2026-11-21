@@ -15,7 +15,7 @@
 | Data Representation | 12/10/2026 ✅ |
 | Data Enconding | 15/10/2026 ✅  |
 | Python: Simple Demo | 17/10/2026 ✅ |
-| JavaScript: Simple Demo | ⌛ A fazer |
+| JavaScript: Simple Demo | 21/10/2026 ✅ |
 | Database SQL Basics | ⌛ A fazer  |
 
 ---
@@ -76,5 +76,22 @@
 **Lição-chave:** A programação é uma ferramenta fundamental para o profissional de segurança. Entender a lógica por trás do código (como variáveis, loops e condicionais) é o que permite, no futuro, automatizar tarefas repetitivas, criar ferramentas de análise e entender como exploits funcionam.
 
 ![Python SImple Demo](../images/python-simple-demo-complete.jpg)
+
+---
+### JavaScript: Simple Demo ✅
+
+**Data:** 21/11/2026
+
+**O que aprendi:**
+- Recriei o jogo de adivinhação ("Guess the Number"), mas desta vez utilizando a linguagem **JavaScript**, executando o código através do ambiente **Node.js** e escrevendo no VS Code.
+- Compreendi as diferenças estruturais básicas em relação ao Python, como a declaração de variáveis com `let` (que podem mudar) e `const` (constantes que não mudam).
+- Utilizei comandos de saída de dados (`console.log`), captura de entrada do usuário (`readline`) e conversão de texto para número (`parseInt`).
+- Apliquei a mesma lógica de programação vista anteriormente: estruturas condicionais (`if`, `else if`, `else`) e loops de repetição (`while`), além de operadores lógicos como o `||` (OR) e `!==` (diferente de).
+
+**Dificuldade:** A lógica em si foi tranquila, pois é uma cópia do jogo que fiz em Python. No entanto, notei que o JavaScript é um pouco mais "verboso" e complexo de configurar do que o Python. O Python parece ser mais limpo e direto, enquanto o JavaScript exige a importação de módulos (como o `readline` para ler o teclado) e tem uma sintaxe com mais chaves `{}` e ponto e vírgula `;`. Mas no geral, muitos dos conceitos e comandos são bem parecidos.
+
+**Lição-chave:** Entender que a lógica de programação é universal é um divisor de águas. Uma vez que você entende como fazer um loop ou uma condicional, aprender uma nova linguagem (seja Python, JavaScript, C++) se resume a aprender a nova "sintaxe" ou o novo "sotaque" daquela linguagem. O JavaScript é essencial para a segurança porque rege a maior parte da web, sendo vital para entender ataques como XSS (Cross-Site Scripting).
+
+![Print da Sala](images/javascript-simple-demo.png)
 
 ---
