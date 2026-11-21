@@ -1,6 +1,6 @@
 # Module 4: Software Basics
 
-**Status do Módulo:** ⌛ Em Andamento
+**Status do Módulo:** Concluido ✅
 
 **Período:** 10/11/2026 - a concluir 
 
@@ -16,7 +16,7 @@
 | Data Enconding | 15/10/2026 ✅  |
 | Python: Simple Demo | 17/10/2026 ✅ |
 | JavaScript: Simple Demo | 21/10/2026 ✅ |
-| Database SQL Basics | ⌛ A fazer  |
+| Database SQL Basics | 21/10/2026 ✅  |
 
 ---
 ## Data Representation ✅
@@ -92,6 +92,38 @@
 
 **Lição-chave:** Entender que a lógica de programação é universal é um divisor de águas. Uma vez que você entende como fazer um loop ou uma condicional, aprender uma nova linguagem (seja Python, JavaScript, C++) se resume a aprender a nova "sintaxe" ou o novo "sotaque" daquela linguagem. O JavaScript é essencial para a segurança porque rege a maior parte da web, sendo vital para entender ataques como XSS (Cross-Site Scripting).
 
+
 ![Print da Sala](../images/javascript-simple-demo.jpg)
+
+---
+### Database SQL Basics ✅
+
+**Data:** 21/11/2026
+
+**O que aprendi:**
+- Compreendi o que é um **Banco de Dados** e por que ele é essencial: em vez de usar anotações em papel (que ficam lentas e confusas com o crescimento), usamos tabelas digitais para armazenar informações de forma organizada.
+- Entendi a estrutura de uma tabela: as **Colunas** representam os tipos de informação (ID, nome, preço) e as **Linhas** representam os registros completos (um pedido específico).
+- Aprendi a usar o **SQL** (Structured Query Language) para fazer perguntas ao banco de dados (chamadas de *queries*), sem precisar alterar os dados salvos.
+- Pratiquei em um laboratório virtual (Café SQL) a escrita das minhas primeiras queries usando os comandos fundamentais: `SELECT` (para escolher colunas), `*` (para selecionar tudo), `FROM` (para definir a tabela), `WHERE` (para filtrar resultados) e `ORDER BY` (para ordenar).
+
+**Dificuldade:** Foi meu primeiro contato mais aprofundado com banco de dados. Achei a lógica das queries bem fácil e autoexplicativa, quase como falar inglês básico com o computador. Não tive dificuldades significativas.
+
+**Lição-chave:** O SQL é a linguagem universal dos dados. Na cibersegurança, entender como as queries funcionam é vital não só para investigar logs e entender sistemas, mas principalmente para proteger aplicações web contra ataques de **SQL Injection**, que é uma das falhas mais comuns e perigosas.
+
+![Print da Sala](../images/database-sql-basics.jpg)
+
+---
+
+## 📝 Resumo do Módulo: Software Basics
+
+Este módulo foi um divisor de águas na minha jornada. Se nos módulos anteriores eu entendi como o hardware funciona e como o Sistema Operacional gerencia a máquina, aqui eu desci um nível para entender **como os dados e o software realmente existem** por baixo dos panos.
+
+A grande linha de raciocínio que construí foi:
+
+1. **Os Dados Brutos (Data Representation e Encoding):** Comecei entendendo que o computador só conhece zeros e uns (bits). Aprendi como traduzir esses bits para cores (sistema Hexadecimal e RGB) e, depois, como a máquina traduz números em texto (ASCII, Unicode, UTF-8). Entendi que "encoding" é um acordo de dicionário entre a máquina e o humano.
+2. **A Lógica (Python e JavaScript):** Saí da teoria dos dados e fui para a prática da programação. Criei o mesmo jogo (Guess the Number) em duas linguagens diferentes. Pude perceber na prática que o Python é muito mais limpo e direto, enquanto o JavaScript (rodando no Node.js) exige mais configuração (importação de módulos e sintaxe mais verbosa). No entanto, a lógica de variáveis, condicionais (`if/else`) e loops (`while`) é exatamente a mesma.
+3. **A Persistência (Database SQL Basics):** Por fim, vi como as aplicações guardam e consultam informações de forma inteligente. Aprendi a estrutura de tabelas, colunas e linhas e escrevi minhas primeiras *queries* em SQL para filtrar e ordenar dados em um banco de dados relacional.
+
+**Conclusão:** Entender como a informação é codificada, como o software é escrito e como os dados são consultados me deu uma visão muito mais clara das vulnerabilidades. Fica evidente que a segurança da informação não acontece no hardware, mas sim na manipulação desses dados e no código (como falhas de *encoding* e *SQL Injection*). Foi o módulo mais técnico e denso até agora, mas extremamente recompensador.
 
 ---
