@@ -1,7 +1,5 @@
 # Module 2: Computer Fundamentals
 
-**Trilha:** Pre Security
-
 **Status do Módulo:** ✅ Concluído
 
 **Período:** 12/10/2026 a 02/11/2026
