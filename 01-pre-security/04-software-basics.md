@@ -12,11 +12,11 @@
 
 | Sala | Data |
 |---|---|
-| Data Representation | 12/10/2026 ✅ |
-| Data Enconding | 15/10/2026 ✅  |
-| Python: Simple Demo | 17/10/2026 ✅ |
-| JavaScript: Simple Demo | 21/10/2026 ✅ |
-| Database SQL Basics | 21/10/2026 ✅  |
+| Data Representation | 12/10/2026  |
+| Data Enconding | 15/10/2026   |
+| Python: Simple Demo | 17/10/2026  |
+| JavaScript: Simple Demo | 21/10/2026  |
+| Database SQL Basics | 21/10/2026   |
 
 ---
 ## Data Representation ✅
