@@ -1,6 +1,6 @@
 # Module 3: Operating Systems Basics
 
-**Status:** ✅ Concluido
+**Status do Módulo:** ✅ Concluido
 
 **Periodo:** 03/11 a 08/11
 
