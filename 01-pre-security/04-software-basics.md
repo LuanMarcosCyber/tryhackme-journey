@@ -2,7 +2,7 @@
 
 **Status do Módulo:** Concluido ✅
 
-**Período:** 10/11/2026 - a concluir 
+**Período:** 10/11/2026 - 21/11/2026
 
 [← Voltar ao README](../README.md)
 
