@@ -1,7 +1,5 @@
 # Module 3: Operating Systems Basics
 
-**Trilha:** Pre Security
-
 **Status:** ✅ Concluido
 
 **Periodo:** 03/11 a 08/11
