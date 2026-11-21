@@ -92,6 +92,6 @@
 
 **Lição-chave:** Entender que a lógica de programação é universal é um divisor de águas. Uma vez que você entende como fazer um loop ou uma condicional, aprender uma nova linguagem (seja Python, JavaScript, C++) se resume a aprender a nova "sintaxe" ou o novo "sotaque" daquela linguagem. O JavaScript é essencial para a segurança porque rege a maior parte da web, sendo vital para entender ataques como XSS (Cross-Site Scripting).
 
-![Print da Sala](images/javascript-simple-demo.png)
+![Print da Sala](images/javascript-simple-demo.jpg)
 
 ---
