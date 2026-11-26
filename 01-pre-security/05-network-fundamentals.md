@@ -14,9 +14,9 @@
 |---|---|
 | What is Networking? | 24/11/2026  |
 | Intro to Lan | 25/11/2026   |
-| OSI Model | A fazer ⌛  |
-| Packets & Frames | A fazer ⌛ |
-| Extending Your Network | A fazer ⌛   |
+| OSI Model | ⌚ A Concluir  |
+| Packets & Frames | ⌚ A Concluir |
+| Extending Your Network | ⌚ A Concluir   |
 
 ---
 ### What is Networking ✅
