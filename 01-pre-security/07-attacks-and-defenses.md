@@ -1,4 +1,4 @@
-# Module 6: Attacks and Defenses
+# Module 7: Attacks and Defenses
 
 **Status do Módulo:** ⌚ A Concluir
 
