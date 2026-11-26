@@ -35,7 +35,7 @@
 
 **Lição-chave:** A identificação na rede (IP e MAC) é a base de toda a comunicação e, consequentemente, de toda a segurança. Entender como um dispositivo se apresenta na rede é o primeiro passo para entender como um atacante pode se passar por outro (Spoofing) e como o Blue Team pode detectar isso.
 
-![Print da Sala](..images/what-is-networking-complete.jpg)
+![Print da Sala](../images/what-is-networking-complete.jpg)
 
 ---
 ### Intro to LAN ✅
@@ -53,6 +53,6 @@
 
 **Lição-chave:** Entender como a rede é desenhada (topologia) e como os dispositivos se comunicam e se identificam (Switch, Router, ARP, DHCP) é a base de qualquer investigação. Na segurança, saber como o tráfego flui fisicamente e logicamente permite identificar onde colocar defesas (como firewalls) e entender como um atacante pode abusar de protocolos (como ARP Spoofing) para interceptar dados.
 
-![Print da Sala](..images/intro-to-lan-complete.jpg)
+![Print da Sala](../images/intro-to-lan-complete.jpg)
 
 ---
