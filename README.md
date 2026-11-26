@@ -22,6 +22,8 @@ Neste repositório eu documento meus estudos práticos e projetos em segurança 
 | 3. Operating Systems Basics | ✅ Concluído | [Ver notas](/01-pre-security/03-operating-systems-basics.md) |
 | 4. Software Basics | ✅ Concluído | [Ver notas](/01-pre-security/04-software-basics.md) |
 | 5. Network Fundamentals | ⌛ Em andamento | [Ver notas](/01-pre-security/05-network-fundamentals.md) |
+| 6. How The Web Works | ⌚ A Concluir | [Ver notas](/01-pre-security/06-how-the-web-works.md) |
+| 7. Attacks and Defenses | ⌚ A Concluir | [Ver notas](/01-pre-security/07-attacks-and-defenses.md) |
 
 ## 🗂️ Como o repositório está organizado
 
